@@ -15,7 +15,7 @@
 
 ![adminuser](pic\adminuser.png)
 
-![adminseearticle](pic\adminseearticle.png)
+![adminseearticle](https://github.com/Laniakea77/HFUT-WebPageDesign/blob/main/pic/adminseearticle.png)
 
 ![viewusrdata](pic\viewusrdata.png)
 
