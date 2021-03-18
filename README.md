@@ -13,13 +13,13 @@
 
 
 
-![adminuser](pic\adminuser.png)
+![adminuser](https://github.com/Laniakea77/HFUT-WebPageDesign/blob/main/pic/adminuser.png)
 
 ![adminseearticle](https://github.com/Laniakea77/HFUT-WebPageDesign/blob/main/pic/adminseearticle.png)
 
-![viewusrdata](pic\viewusrdata.png)
+![viewusrdata](https://github.com/Laniakea77/HFUT-WebPageDesign/blob/main/pic/viewusrdata.png)
 
-![editarticle](pic\editarticle.png)
+![editarticle](https://github.com/Laniakea77/HFUT-WebPageDesign/blob/main/pic/editarticle.png)
 
-![userown](pic\userown.png)
+![userown](https://github.com/Laniakea77/HFUT-WebPageDesign/blob/main/pic/userown.png)
 
